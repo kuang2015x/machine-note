@@ -39,10 +39,6 @@ $$
 $$
 A=UWV^{T}同乘V\Rightarrow AV=UWV^{T}V\Rightarrow AV=UW\Rightarrow Av=\sigma u\Rightarrow \sigma =Av/u，\sigma为W中主对角线上的值
 $$
-又由于U是由标准正交基组成的方正，所以
-$$
-AV=UW\Rightarrow U^{-1}AV=W\Rightarrow U^TAV=W
-$$
 这样求出了U，W，V
 
 上面的公式推广一下，就可以使用一个k大的奇异值来近似的描述一个矩阵，
